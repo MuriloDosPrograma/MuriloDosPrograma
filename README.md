@@ -12,12 +12,12 @@ Here are some of the programming languages and technologies I'm familiar with:**
 
 **HTML5 🌐**
 
-**Python 🐍**
+**CSS3 🎨**
 
 **C 🔧**
 
 <p align="center">
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="150" height="150">
+  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="150" height="150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="150" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="150" height="150">
 </p>
