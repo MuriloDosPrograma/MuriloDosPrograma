@@ -1,7 +1,7 @@
 **🌵✨ Murilo Magalhães Santos Maia ✨🌵**
 ***📍 From Tucano, Bahia, Brazil 🇧🇷***
 
-**Hi there! 👋 I'm Murilo, a passionate student with big dreams 🌟. Currently, I'm in my first year of high school at IFBA Campus Euclides da Cunha, where I'm also pursuing a Technical Course in Computer Science 💻.**
+**Hi there! 👋 I'm Murilo, a passionate student with big dreams 🌟. Currently, I'm in my first year of high school at IFBA Campus Euclides da Cunha, where I'm also pursuing a Computer Technician Course 💻.**
 
 **🌐 My goal is to build a future as a web developer, crafting beautiful and functional websites for everyone to enjoy. I believe in combining creativity 🎨, technology 🖥️, and determination 🚀 to achieve my dreams.**
 
